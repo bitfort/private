@@ -1,0 +1,1 @@
+sbt "run-main org.hazy.gibbs.GibbsSampler -v /Users/czhang/Desktop/cnn/variables_head.txt -f /Users/czhang/Desktop/cnn/factors.txt -w /Users/czhang/Desktop/cnn/weights.txt -l 10 -s 10 -i 10 -t 4 -o /Users/czhang/Desktop/cnn/out.out"
